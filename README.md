@@ -33,6 +33,7 @@ What's NOT working?
 
 - Sleep/Wake
 - AppleALC.kext
+- BCM94360NG module doesn't work with Windows on this Laptop. Something wrong with WIFI driver on this one.
 
 Performance - Handbrake over 100fps.
 Battery - 3-4hr surfing internet - If turn off wifi and bluetooth, will only loses 20% in 2hr with the lid closed.
